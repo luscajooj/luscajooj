@@ -2,4 +2,4 @@
 - 👀 I’m interested in Fron-end development
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Git, Bootstrap.
 - 💞️ I’m looking to collaborate on Landing Pages
-- 📫 How to reach me dm me on Discord: luscajooj.
+- 📫 How to reach me -> dm me on Discord: luscajooj.
