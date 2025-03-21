@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luscajooj
-- 👀 I’m interested in Fron-end development
+- 👀 I’m interested in Front-end development
 - 🌱 I’m currently learning HTML, CSS, JavaScript, Git, Bootstrap.
 - 📫 How to reach me -> dm me on Discord: luscajooj.
 
