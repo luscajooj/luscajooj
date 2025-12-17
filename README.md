@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luscajooj
-- 👀 I’m interested in Front-end development
-- 🌱 My stacks are HTML, CSS, JavaScript, Git, Bootstrap, PHP, MySQL, PostgreeSQL.
+- 👀 I’m interested in FullStack development
+- 🌱 My stacks are HTML, CSS, React, JavaScript, TypeScript, Git, Bootstrap, PHP, Node.js, MySQL, PostgreeSQL, MongoDB.
 - 📫 How to reach me -> dm me on Discord: luscajooj.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luscajooj&show_icons=true&theme=dark)
